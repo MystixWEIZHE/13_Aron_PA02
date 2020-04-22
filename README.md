@@ -2,4 +2,4 @@
 Welcome to GIT HUB
 I am Seow Aron Wei Zhe
 I am learning about GIT now
-Nice to meeet you
+Nice to meet you!
